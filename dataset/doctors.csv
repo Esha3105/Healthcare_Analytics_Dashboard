@@ -1,0 +1,11 @@
+doctor_id,first_name,last_name,full_name,specialization,years_experience,hospital_branch
+D001,David,Taylor,David Taylor,Dermatology,17,Westside Clinic
+D002,Jane,Davis,Jane Davis,Pediatrics,24,Eastside Clinic
+D003,Jane,Smith,Jane Smith,Pediatrics,19,Eastside Clinic
+D004,David,Jones,David Jones,Pediatrics,28,Central Hospital
+D005,Sarah,Taylor,Sarah Taylor,Dermatology,26,Central Hospital
+D006,Alex,Davis,Alex Davis,Pediatrics,23,Central Hospital
+D007,Robert,Davis,Robert Davis,Oncology,26,Westside Clinic
+D008,Linda,Brown,Linda Brown,Dermatology,5,Westside Clinic
+D009,Sarah,Smith,Sarah Smith,Pediatrics,26,Central Hospital
+D010,Linda,Wilson,Linda Wilson,Oncology,21,Eastside Clinic
