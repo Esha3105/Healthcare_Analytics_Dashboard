@@ -125,11 +125,6 @@ Performed **multi-table joins** to combine data from different sources and gener
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](Healthcare_dashboard.png)
-
----
 
 ## 💼 Resume Value
 
